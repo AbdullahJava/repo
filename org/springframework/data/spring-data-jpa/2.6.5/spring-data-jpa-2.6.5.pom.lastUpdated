@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 18 07:51:59 EET 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1705557119415
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.data\:spring-data-jpa\:pom\:2.6.5 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.6.5/spring-data-jpa-2.6.5.pom

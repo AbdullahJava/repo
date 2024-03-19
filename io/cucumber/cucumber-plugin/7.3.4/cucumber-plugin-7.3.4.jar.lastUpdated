@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 12 14:20:01 EET 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1697113201974
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.cucumber\:cucumber-plugin\:jar\:7.3.4 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/7.3.4/cucumber-plugin-7.3.4.jar
